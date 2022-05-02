@@ -8,5 +8,5 @@ wish.classList.add('active')
 btn.style.display ='none'
 tips.style.display ='none'
 audi.play()
-audi.currentTime()
+audi.currentTime=0
 })
